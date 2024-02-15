@@ -1,0 +1,1 @@
+Lista com 17 exercícios sugeridos pela Professora Gilda para treino para a  p2. Sendo o conteúdo a partir de Herança, Abstração, Interface, ArrayList, Padrões de Projeto; Abstract Factory, FactoryMethod, Singleton, Tratamento de Exceções e Sobrecarga. 
